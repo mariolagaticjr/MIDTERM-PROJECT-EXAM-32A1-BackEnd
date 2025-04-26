@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "BackendStudentManagement.Controllers.CrudOperationsController",
+    "Method": "CreateRecord",
+    "RelativePath": "api/CrudOperations/CreateRecord",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BackendStudentManagement.CommonLayer.Model.CreateRecordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackendStudentManagement.Controllers.CrudOperationsController",
+    "Method": "ReadRecord",
+    "RelativePath": "api/CrudOperations/ReadRecord",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BackendStudentManagement.Controllers.CrudOperationsController",
+    "Method": "UpdateRecord",
+    "RelativePath": "api/CrudOperations/UpdateRecord",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BackendStudentManagement.CommonLayer.Model.UpdateRecordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

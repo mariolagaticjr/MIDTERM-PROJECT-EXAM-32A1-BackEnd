@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\controllers\\crudoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\controllers\\crudoperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\servicelayer\\crudoperationssl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\servicelayer\\crudoperationssl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\commonlayer\\model\\readrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\commonlayer\\model\\readrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\repositorylayer\\crudoperationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\repositorylayer\\crudoperationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\repositorylayer\\icrudoperationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\repositorylayer\\icrudoperationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\servicelayer\\icrudoperationsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\servicelayer\\icrudoperationsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\backendstudentmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\backendstudentmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\commonlayer\\model\\updaterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\commonlayer\\model\\updaterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\commonlayer\\model\\createrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\commonlayer\\model\\createrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|c:\\users\\hiori\\source\\repos\\backendstudentmanagement\\backendstudentmanagement\\backendstudentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{982A5BF2-3A27-4890-B155-FFC6BDFA3F27}|BackendStudentManagement\\BackendStudentManagement.csproj|solutionrelative:backendstudentmanagement\\backendstudentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudOperationsController.cs",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\Controllers\\CrudOperationsController.cs",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\Controllers\\CrudOperationsController.cs",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\Controllers\\CrudOperationsController.cs",
+              "RelativeToolTip": "BackendStudentManagement\\Controllers\\CrudOperationsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:35:37.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackendStudentManagement.http",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\BackendStudentManagement.http",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\BackendStudentManagement.http",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\BackendStudentManagement.http",
+              "RelativeToolTip": "BackendStudentManagement\\BackendStudentManagement.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-11T08:22:38.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadRecord.cs",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\CommonLayer\\Model\\ReadRecord.cs",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\CommonLayer\\Model\\ReadRecord.cs",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\CommonLayer\\Model\\ReadRecord.cs",
+              "RelativeToolTip": "BackendStudentManagement\\CommonLayer\\Model\\ReadRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:10:39.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICrudOperationRL.cs",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\RepositoryLayer\\ICrudOperationRL.cs",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\RepositoryLayer\\ICrudOperationRL.cs",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\RepositoryLayer\\ICrudOperationRL.cs",
+              "RelativeToolTip": "BackendStudentManagement\\RepositoryLayer\\ICrudOperationRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:39:45.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrudOperationRL.cs",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\RepositoryLayer\\CrudOperationRL.cs",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\RepositoryLayer\\CrudOperationRL.cs",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\RepositoryLayer\\CrudOperationRL.cs",
+              "RelativeToolTip": "BackendStudentManagement\\RepositoryLayer\\CrudOperationRL.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwEkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:40:06.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrudOperationsSL.cs",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\ServiceLayer\\CrudOperationsSL.cs",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\ServiceLayer\\CrudOperationsSL.cs",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\ServiceLayer\\CrudOperationsSL.cs",
+              "RelativeToolTip": "BackendStudentManagement\\ServiceLayer\\CrudOperationsSL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA3wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:38:01.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICrudOperationSL.cs",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\ServiceLayer\\ICrudOperationSL.cs",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\ServiceLayer\\ICrudOperationSL.cs",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\ServiceLayer\\ICrudOperationSL.cs",
+              "RelativeToolTip": "BackendStudentManagement\\ServiceLayer\\ICrudOperationSL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:37:15.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\Program.cs",
+              "RelativeToolTip": "BackendStudentManagement\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:41:14.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateRecord.cs",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\CommonLayer\\Model\\UpdateRecord.cs",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\CommonLayer\\Model\\UpdateRecord.cs",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\CommonLayer\\Model\\UpdateRecord.cs",
+              "RelativeToolTip": "BackendStudentManagement\\CommonLayer\\Model\\UpdateRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:43:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateRecord.cs",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\CommonLayer\\Model\\CreateRecord.cs",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\CommonLayer\\Model\\CreateRecord.cs",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\CommonLayer\\Model\\CreateRecord.cs",
+              "RelativeToolTip": "BackendStudentManagement\\CommonLayer\\Model\\CreateRecord.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:42:43.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackendStudentManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T10:00:27.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\appsettings.json",
+              "RelativeToolTip": "BackendStudentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T08:22:39.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BackendStudentManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\BackendStudentManagement.csproj",
+              "RelativeDocumentMoniker": "BackendStudentManagement\\BackendStudentManagement.csproj",
+              "ToolTip": "C:\\Users\\hiori\\source\\repos\\BackendStudentManagement\\BackendStudentManagement\\BackendStudentManagement.csproj",
+              "RelativeToolTip": "BackendStudentManagement\\BackendStudentManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T21:36:04.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

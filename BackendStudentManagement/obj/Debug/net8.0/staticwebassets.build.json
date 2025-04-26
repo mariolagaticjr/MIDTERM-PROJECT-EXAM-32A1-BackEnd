@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S+xGs6sP3dTB13+KbLnhGNaWBr0qs+3gAZtvx+Pq9gE=",
+  "Source": "BackendStudentManagement",
+  "BasePath": "_content/BackendStudentManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
